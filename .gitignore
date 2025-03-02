@@ -40,3 +40,6 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
+
+# Deployment
+deploy.sh
