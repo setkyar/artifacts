@@ -1,0 +1,6 @@
+{
+    "title": "Node.js Event Loop Simulator",
+    "description": "This interactive Node.js Event Loop Simulator demonstrates how JavaScript code is executed in Node.js.",
+    "date": "2025-03-02",
+    "componentName": "NodeJSEventLoopSimulator"
+}

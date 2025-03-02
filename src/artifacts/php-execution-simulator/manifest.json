@@ -1,0 +1,6 @@
+{
+    "title": "PHP Code Execution Simulator",
+    "description": "Interactive PHP code execution simulator that will help you visualize how PHP code gets processed and executed",
+    "date": "2025-03-01",
+    "componentName": "PHPExecutionSimulator"
+}

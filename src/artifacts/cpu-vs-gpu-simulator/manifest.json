@@ -1,0 +1,6 @@
+{
+    "title": "CPU vs GPU Simulator",
+    "description": "This will visualize the key architectural differences and processing patterns of these two important computing components.",
+    "date": "2025-03-01",
+    "componentName": "CPUGPUSimulator"
+}

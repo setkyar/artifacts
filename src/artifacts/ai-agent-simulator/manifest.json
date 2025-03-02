@@ -1,0 +1,6 @@
+{
+  "title": "LLM Agent Architecture Simulator",
+  "description": "This will visualize how various agent workflows process tasks.",
+  "date": "2025-03-02",
+  "componentName": "AgentSimulator"
+}

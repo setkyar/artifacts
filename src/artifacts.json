@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ai-agent-simulator",
+    "title": "LLM Agent Architecture Simulator",
+    "description": "This will visualize how various agent workflows process tasks.",
+    "date": "2025-03-02",
+    "componentName": "AgentSimulator"
+  },
+  {
+    "id": "php-execution-simulator",
+    "title": "PHP Code Execution Simulator",
+    "description": "Interactive PHP code execution simulator that will help you visualize how PHP code gets processed and executed",
+    "date": "2025-03-01",
+    "componentName": "PHPExecutionSimulator"
+  },
+  {
+    "id": "event-loop-simulator",
+    "title": "Node.js Event Loop Simulator",
+    "description": "This interactive Node.js Event Loop Simulator demonstrates how JavaScript code is executed in Node.js.",
+    "date": "2025-03-02",
+    "componentName": "NodeJSEventLoopSimulator"
+  },
+  {
+    "id": "cpu-vs-gpu-simulator",
+    "title": "CPU vs GPU Simulator",
+    "description": "This will visualize the key architectural differences and processing patterns of these two important computing components.",
+    "date": "2025-03-01",
+    "componentName": "CPUGPUSimulator"
+  }
+]
