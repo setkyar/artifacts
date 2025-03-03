@@ -1,0 +1,6 @@
+{
+  "title": "Interactive B-Tree Simulator",
+  "description": "Interactive B-Tree simulator that helps you understand how B-Trees operate.",
+  "date": "2025-03-03",
+  "componentName": "BTreeSimulator"
+}

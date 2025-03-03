@@ -1,0 +1,6 @@
+{
+  "title": "Operating System Concepts Simulator",
+  "description": "Concepts of kernel mode vs. user mode, multi-threading, synchronization primitives, and their implementations",
+  "date": "2025-03-03",
+  "componentName": "OSConceptsSimulator"
+}

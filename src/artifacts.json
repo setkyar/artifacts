@@ -14,11 +14,25 @@
     "componentName": "AssemblySimulator"
   },
   {
+    "id": "interactive-b-tree-simulator",
+    "title": "Interactive B-Tree Simulator",
+    "description": "Interactive B-Tree simulator that helps you understand how B-Trees operate.",
+    "date": "2025-03-03",
+    "componentName": "BTreeSimulator"
+  },
+  {
     "id": "interactive-compiler-simulator",
     "title": "Interactive Compiler Simulator",
     "description": "Interactive compiler simulator that visualizes the complete compilation process from source code to executable.",
     "date": "2025-03-03",
     "componentName": "CompilerSimulator"
+  },
+  {
+    "id": "os-concepts-simulator",
+    "title": "Operating System Concepts Simulator",
+    "description": "Concepts of kernel mode vs. user mode, multi-threading, synchronization primitives, and their implementations",
+    "date": "2025-03-03",
+    "componentName": "OSConceptsSimulator"
   },
   {
     "id": "tcp-ip-visualization",
