@@ -7,6 +7,13 @@
     "componentName": "ComputerSimulator"
   },
   {
+    "id": "tcp-ip-visualization",
+    "title": "Interative TCP/IP visualization",
+    "description": "Interactive TCP/IP visualization that allows you to explore the fundamental concepts of internet communication.",
+    "date": "2025-03-03",
+    "componentName": "TCPIPVisualization"
+  },
+  {
     "id": "thinking-fast-and-slow",
     "title": "Thinking Fast and Slow: Interactive Simulation",
     "description": "Explore cognitive biases based on Daniel Kahneman's work in the field of psychology",
