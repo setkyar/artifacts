@@ -7,6 +7,13 @@
     "componentName": "AgentSimulator"
   },
   {
+    "id": "thinking-fast-and-slow",
+    "title": "Thinking Fast and Slow: Interactive Simulation",
+    "description": "Explore cognitive biases based on Daniel Kahneman's work in the field of psychology",
+    "date": "2025-03-03",
+    "componentName": "ThinkingFastAndSlowSimulation"
+  },
+  {
     "id": "php-execution-simulator",
     "title": "PHP Code Execution Simulator",
     "description": "Interactive PHP code execution simulator that will help you visualize how PHP code gets processed and executed",
@@ -26,5 +33,12 @@
     "description": "This will visualize the key architectural differences and processing patterns of these two important computing components.",
     "date": "2025-03-01",
     "componentName": "CPUGPUSimulator"
+  },
+  {
+    "id": "computer-simulator",
+    "title": "Interactive Computer Simulator",
+    "description": "Computer simulator that will help you learn how computers work from the fundamentals",
+    "date": "2025-03-03",
+    "componentName": "ComputerSimulator"
   }
 ]
