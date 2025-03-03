@@ -7,6 +7,20 @@
     "componentName": "ComputerSimulator"
   },
   {
+    "id": "interactive-assembly-simulator",
+    "title": "Interactive Assembly Simulator",
+    "description": "Interactive Assembly Simulator that demonstrates how assembly code works at the hardware level.",
+    "date": "2025-03-03",
+    "componentName": "AssemblySimulator"
+  },
+  {
+    "id": "interactive-compiler-simulator",
+    "title": "Interactive Compiler Simulator",
+    "description": "Interactive compiler simulator that visualizes the complete compilation process from source code to executable.",
+    "date": "2025-03-03",
+    "componentName": "CompilerSimulator"
+  },
+  {
     "id": "tcp-ip-visualization",
     "title": "Interative TCP/IP visualization",
     "description": "Interactive TCP/IP visualization that allows you to explore the fundamental concepts of internet communication.",

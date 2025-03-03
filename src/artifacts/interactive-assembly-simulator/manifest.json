@@ -1,0 +1,6 @@
+{
+  "title": "Interactive Assembly Simulator",
+  "description": "Interactive Assembly Simulator that demonstrates how assembly code works at the hardware level.",
+  "date": "2025-03-03",
+  "componentName": "AssemblySimulator"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Interactive Compiler Simulator",
+  "description": "Interactive compiler simulator that visualizes the complete compilation process from source code to executable.",
+  "date": "2025-03-03",
+  "componentName": "CompilerSimulator"
+}
