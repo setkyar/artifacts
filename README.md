@@ -13,20 +13,15 @@ A React-based web application showcasing Set Kyar Wa Lar's collection of AI-gene
 ### Installation
 
 1. Clone the repository
-2. Create and activate a Python virtual environment (if needed for any Python dependencies):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Unix/macOS
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm start
    ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
 
@@ -42,33 +37,19 @@ A React-based web application showcasing Set Kyar Wa Lar's collection of AI-gene
 
 ## Artifact System
 
-The project uses a manifest-based system to manage artifacts:
+Generally, we use the following structure for each artifact:
 
-1. **Artifact Structure**:
-   Each artifact in the `src/artifacts/` directory must contain:
-   - `manifest.json`: Defines artifact metadata (title, description, date, componentName)
-   - `component.jsx`: The React component implementing the artifact
+1. Ask Claude to generate artifact
+2. Run `node scripts/add-artifact.js` to add the artifact to the registry
+3. Run `node scripts/generate-manifest.js` to generate the manifest
+4. Run `npm start` to start the development server and verify the artifact
+5. Run `npm run build` to build the artifact for production
 
-2. **Registration Process**:
-   - Place new artifacts in the `src/artifacts/` directory
-   - Run the Python script to generate `artifacts.json`:
-     ```bash
-     python scripts/manage_artifacts.py
-     ```
-   - The script will:
-     - Scan all artifact directories
-     - Copy component files to `src/components/artifacts/`
-     - Generate `artifacts.json` with metadata
-
-3. **Loading System**:
-   - `Home.js` loads `artifacts.json` to display the artifact gallery
-   - `ArtifactView.js` dynamically loads individual artifacts using React.lazy()
 
 ## Development
 
 - Each artifact should be a self-contained component
 - Use Tailwind CSS for styling
-- Follow the manifest structure for new artifacts
 
 ## Scripts
 

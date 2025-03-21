@@ -1,5 +1,12 @@
 [
   {
+    "id": "great-software-engineer",
+    "title": "Great Software Engineer Simulator",
+    "description": "Based on research from \"What Makes a Great Software Engineer\" by Paul Luo Li",
+    "date": "2025-03-21",
+    "componentName": "SoftwareEngineerSimulator"
+  },
+  {
     "id": "computer-simulator",
     "title": "Interactive Computer Simulator",
     "description": "Computer simulator that will help you learn how computers work from the fundamentals",
